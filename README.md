@@ -1,3 +1,3 @@
 # SQL
-Posting SQL projects 
+Posting SQL projects  
 CASE WHEN - Subqueries - 
